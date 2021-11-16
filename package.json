@@ -1,0 +1,14 @@
+{
+  "name": "trezor-privatekey-export",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Jirayu Sukheepoj <code7551@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "ethers": "^5.5.1"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
